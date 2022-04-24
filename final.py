@@ -10,7 +10,7 @@
 import numpy as np
 import extract_convert as convert
 import extract_vectorize as vectorize
-import extract_model as extract
+import extract_odel as extract
 import seq2seq_model as seq2seq
 from snippets import *
 
